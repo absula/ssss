@@ -1,0 +1,14 @@
+/Users/sultanabil/ssss/bin/Debug/net9.0/ssss
+/Users/sultanabil/ssss/bin/Debug/net9.0/ssss.deps.json
+/Users/sultanabil/ssss/bin/Debug/net9.0/ssss.runtimeconfig.json
+/Users/sultanabil/ssss/bin/Debug/net9.0/ssss.dll
+/Users/sultanabil/ssss/bin/Debug/net9.0/ssss.pdb
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.AssemblyInfoInputs.cache
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.AssemblyInfo.cs
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.csproj.CoreCompileInputs.cache
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.dll
+/Users/sultanabil/ssss/obj/Debug/net9.0/refint/ssss.dll
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.pdb
+/Users/sultanabil/ssss/obj/Debug/net9.0/ssss.genruntimeconfig.cache
+/Users/sultanabil/ssss/obj/Debug/net9.0/ref/ssss.dll
